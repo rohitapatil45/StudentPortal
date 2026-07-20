@@ -1,5 +1,5 @@
 # StudentPortal
-Session 3 Assignment: Basic Student Portal in ASP.Net MVC
+Basic Student Portal in ASP.Net MVC
 Assignment: Student Portal (Mini MVC App)
 
 Build a small ASP.NET Core MVC app called StudentPortal with one StudentController.
